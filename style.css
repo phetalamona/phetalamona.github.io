@@ -1,0 +1,242 @@
+#titre {position: absolute;
+		left: 2%;
+		top: 4%;
+		font-size: 1.4em;
+	font-family: 'Capriola', sans-serif}
+
+#sstitre {position: absolute;
+		left: 2%;
+		top: 8%;
+		font-size: 1em;
+	font-family: 'Capriola', sans-serif}
+
+#line {position: absolute;
+		top: 12%;
+		left: 2%;
+		height:5%;
+		background-image: url("imgs/line.svg")}
+
+#menu {position: absolute;
+		right: 4%;
+		top: 6%;`
+		height: 30px;
+		width: 80px;
+		font-size: 1em;
+		z-index: 1000;
+		font-family: 'ABeeZee', sans-serif;
+		text-align: right;
+		
+		border: 0px solid black;
+
+}
+#imgmenu {position: absolute;
+		top: -50%;
+		font-size: 1em;
+		border: 0px solid black;
+		z-index: 1000;
+		font-family: 'ABeeZee', sans-serif;
+
+
+}
+
+#menu:hover, #imgmenu:hover {cursor: pointer;
+z-index: 1000;}
+
+#liste {display: none;
+position: absolute;
+		right: 3%;
+		top: 10%;
+		font-size: 0.8em;
+	border: 0px solid black;
+font-family: 'ABeeZee', sans-serif;
+line-height: 18px;
+z-index: 1000;}
+
+a {color: black;text-decoration: none}
+a:visited {color: black;}
+a:active {text-decoration: underline}
+
+#matieres {position: absolute;
+	top: 25%;
+	left: 4%;
+font-family: 'ABeeZee', sans-serif;}
+
+#matieres:hover {cursor: pointer;}
+
+#contenu {position: absolute;
+		top: 25%;
+		left:25%;
+		width:50%;height:50%;
+
+	}
+
+
+#contenu2 {
+	position: absolute;
+		top: 25%;
+		left:25%;
+		width: 35%;
+		height: 60%;
+		overflow: auto;
+		border: 0px solid black;}
+
+#contenu3 {display:none;
+	position: absolute;
+		top: 50%;
+		left:50%;
+		border: 0px solid black;}
+ .swiper-container {
+      width: 100%;
+      height: 100%;
+    }
+    .swiper-slide {
+      text-align: center;
+      font-size: 1em;
+      background: #fff;
+      /* Center slide text vertically */
+      display: flex;
+     align-items: flex-end;
+    }
+    .swiper-slide {
+      background-position: center center;
+      background-repeat: no-repeat;
+      background-size:cover;
+    }
+
+    
+    #slide1 { background-image:url(imgs/journalinsta5.png); }
+    #slide2 { background-image:url(imgs/journalinsta4.png); }
+    #slide3 { background-image:url(imgs/journalinsta6.png); }
+
+ .swiper-pagination-bullet {
+      width: 20px;
+      height: 20px;
+      text-align: center;
+      line-height: 20px;
+      font-size: 0px;
+      color:#000;
+      opacity: 1;
+      background: #000000;
+    }
+    .swiper-pagination-bullet-active {
+      color:#fff;
+      background: #000000;
+    }
+
+  #texteindex {position: absolute;
+  	font-family: 'ABeeZee', sans-serif;
+font-size: 0.7em;
+bottom:7%;
+right: 5%;
+text-align: left;}
+
+#texteintro {position: absolute;
+  	font-family: 'ABeeZee', sans-serif;
+  	color: white;
+  	background-color: black;
+  	opacity: 0.9;
+
+line-height: 140%;
+top:25%;
+left: 5%;
+text-align: left;
+padding: 15px;
+border-radius: 25px;
+width: 15%;height:auto;}
+
+#texteautres {position: absolute;
+		right: 4%;
+		top:22%;
+		width: 70px;
+		font-size: 0.6em;
+		border: 0px solid black;
+		z-index: 1000;
+		font-family: 'ABeeZee', sans-serif;
+
+
+}
+
+#crédits {display:none;
+	position: absolute;
+	bottom: 2%;
+	left: 48%;
+	font-family: 'ABeeZee', sans-serif;
+	text-align: center;
+	border: 1px solid red;
+
+}
+
+#texte2 {position: absolute;
+	top: 25%;
+		right:10%;
+		width: 25%;
+		height: 60%;
+		overflow: auto;
+font-family: 'ABeeZee', sans-serif;
+font-size: 0.8em;
+border: 0px solid black;
+z-index: 100;}
+
+#texte2 a {text-decoration: underline;}
+#texte2 a:visited {color: black;}
+
+.vignette { 
+	position:relative;float:left;
+	 
+	border:solid 0px black;
+	margin:0 5px 5px 0;
+
+}
+.vignette img { 
+	
+ }
+.vignette:hover { cursor:pointer;}
+
+
+.grande {
+	position:fixed;
+	margin-left:2%;left:29%;
+	top:20%;
+	display:none;
+	background:none;
+
+	border: 0px solid black;
+	z-index: 1000;
+
+}
+.grande:hover { cursor:pointer; }
+
+.grande img {max-height: 500px;width: auto}
+
+#autres {position: absolute;
+top:15%;
+width:85%;height:80%;left:5%;
+border: 0px solid red;
+overflow: auto;
+z-index: 100;}
+
+#autres img {position: relative; 
+	float: left;
+	max-height: 500px;
+margin: 0 5px 5px 0;
+z-index:100;}
+
+#apropos {position: absolute;
+top:25%;
+width:40%;height:60%;left:30%;
+border: 0px solid red;
+overflow: auto;
+font-size: 0.8em;
+font-family: 'ABeeZee', sans-serif;
+text-align: center;}
+
+
+#contenumythes, #contenugraphisme, 
+#contenuphoto, #contenuillu1, #contenuillu2, #contenuprocessing,
+#contenugravure, #contenuchaap {display: none;}
+
+
+#webdoc:hover, #mythes:hover, #graphisme:hover, 
+#photo:hover, #illu1:hover, #illu2:hover, #processing:hover,
+#gravure:hover, #chaap:hover {text-decoration: underline}
+

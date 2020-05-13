@@ -1,3 +1,8 @@
+p {font-family: 'ABeeZee', sans-serif;
+font-size: 0.7em;
+border: 0px solid black;
+z-index: 100;}
+
 #titre {position: absolute;
 		left: 2%;
 		top: 4%;
@@ -57,7 +62,7 @@ a:visited {color: black;}
 a:active {text-decoration: underline}
 
 #matieres {position: absolute;
-	top: 25%;
+	top: 18%;
 	left: 4%;
 font-family: 'ABeeZee', sans-serif;}
 
@@ -74,11 +79,14 @@ font-family: 'ABeeZee', sans-serif;}
 #contenu2 {
 	position: absolute;
 		top: 25%;
-		left:25%;
-		width: 35%;
-		height: 60%;
+		left:18%;
+		width: 52%;
+		height: 70%;
 		overflow: auto;
-		border: 0px solid black;}
+		border: 0px solid black;
+		text-align:center;        
+display:inline-block;
+	}
 
 #contenu3 {display:none;
 	position: absolute;
@@ -168,9 +176,9 @@ width: 15%;height:auto;}
 
 #texte2 {position: absolute;
 	top: 25%;
-		right:10%;
+		right:3%;
 		width: 25%;
-		height: 60%;
+		height: 70%;
 		overflow: auto;
 font-family: 'ABeeZee', sans-serif;
 font-size: 0.8em;
@@ -181,22 +189,24 @@ z-index: 100;}
 #texte2 a:visited {color: black;}
 
 .vignette { 
-	position:relative;float:left;
+	text-align:center;        
+display:inline-block;
+	/*position:relative;float:center;*/
+
 	 
 	border:solid 0px black;
-	margin:0 5px 5px 0;
+margin:0 5px 5px 0;
 
 }
-.vignette img { 
-	
- }
+
 .vignette:hover { cursor:pointer;}
 
 
 .grande {
 	position:fixed;
-	margin-left:2%;left:29%;
-	top:20%;
+	margin-left:2%;left:10%;
+	top:9%;
+	bottom:2%;
 	display:none;
 	background:none;
 
@@ -206,7 +216,7 @@ z-index: 100;}
 }
 .grande:hover { cursor:pointer; }
 
-.grande img {max-height: 500px;width: auto}
+.grande img {max-height: 650px;width: auto}
 
 #autres {position: absolute;
 top:15%;
@@ -233,10 +243,10 @@ text-align: center;}
 
 #contenumythes, #contenugraphisme, 
 #contenuphoto, #contenuillu1, #contenuillu2, #contenuprocessing,
-#contenugravure, #contenuchaap {display: none;}
+#contenugravure, #contenuchaap, #oldproj, #osmose {display: none;}
 
 
 #webdoc:hover, #mythes:hover, #graphisme:hover, 
 #photo:hover, #illu1:hover, #illu2:hover, #processing:hover,
-#gravure:hover, #chaap:hover {text-decoration: underline}
+#gravure:hover, #chaap:hover, #titreoldproj:hover, #titreosmose:hover {text-decoration: underline}
 

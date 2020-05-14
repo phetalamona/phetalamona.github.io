@@ -87,6 +87,17 @@ font-family: 'ABeeZee', sans-serif;}
 		text-align:center;        
 display:inline-block;
 	}
+	#contenu2bis {
+	position: absolute;
+		top: 25%;
+		left:18%;
+		width: 77%;
+		height: 70%;
+		overflow: auto;
+		border: 0px solid black;
+		text-align:center;        
+display:inline-block;
+	}
 
 #contenu3 {display:none;
 	position: absolute;
@@ -249,4 +260,6 @@ text-align: center;}
 #webdoc:hover, #mythes:hover, #graphisme:hover, 
 #photo:hover, #illu1:hover, #illu2:hover, #processing:hover,
 #gravure:hover, #chaap:hover, #titreoldproj:hover, #titreosmose:hover {text-decoration: underline}
+
+
 

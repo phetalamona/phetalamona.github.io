@@ -242,10 +242,28 @@ z-index: 100;}
 margin: 0 5px 5px 0;
 z-index:100;}
 
-#apropos {position: absolute;
+#apropos1 {position: absolute;
 top:25%;
-width:40%;height:60%;left:30%;
+width:40%;height:60%;right:10%;
 border: 0px solid red;
+overflow: auto;
+font-size: 0.8em;
+font-family: 'ABeeZee', sans-serif;
+text-align: center;}
+
+#apropos2 {position: absolute;
+top:25%;
+width:40%;height:60%;left:10%;
+border: 0px solid blue;
+overflow: auto;
+font-size: 0.8em;
+font-family: 'ABeeZee', sans-serif;
+text-align: center;}
+
+#apropos3 {position: absolute;
+bottom:3%;
+width:40%;left:30%;
+border: 0px solid yellow;
 overflow: auto;
 font-size: 0.8em;
 font-family: 'ABeeZee', sans-serif;
@@ -260,6 +278,4 @@ text-align: center;}
 #webdoc:hover, #mythes:hover, #graphisme:hover, 
 #photo:hover, #illu1:hover, #illu2:hover, #processing:hover,
 #gravure:hover, #chaap:hover, #titreoldproj:hover, #titreosmose:hover {text-decoration: underline}
-
-
 

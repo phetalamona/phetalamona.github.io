@@ -243,7 +243,7 @@ margin: 0 5px 5px 0;
 z-index:100;}
 
 #apropos1 {position: absolute;
-top:25%;
+top:30%;
 width:40%;height:60%;right:10%;
 border: 0px solid red;
 overflow: auto;
@@ -253,7 +253,7 @@ text-align: center;}
 
 #apropos2 {position: absolute;
 top:25%;
-width:40%;height:60%;left:10%;
+width:40%;height:60%;left:8%;
 border: 0px solid blue;
 overflow: auto;
 font-size: 0.8em;

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-22T12:57:53.843Z" agent="5.0 (Macintosh)" etag="R0OozgqrOjCQP9cheZ2G" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-22T13:00:13.880Z" agent="5.0 (Macintosh)" etag="k9BUTP8bICpTO0a3Yrb8" version="16.6.2" type="github">
   <diagram id="Fz2pEjtqNTdtGRBQMziY" name="Page-1">
-    <mxGraphModel dx="2524" dy="2068" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2955" dy="2585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,6 +48,12 @@
         </mxCell>
         <mxCell id="ohLFZsM4meblpCoX3Q22-19" value="&lt;div align=&quot;left&quot;&gt;http://www.fearofchoice.com/&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Fear of choice&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Rafael Rozendalen&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2019&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-90" y="1660" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ohLFZsM4meblpCoX3Q22-26" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://artlogic-res.cloudinary.com/w_886,h_665,c_limit,f_auto,fl_lossy/artlogicstorage/annetgelink/images/view/963605c243c81b6dc591f232290f466020740cec/annetgelinkgallery-sarah-van-sonsbeeck-one-cubic-meter-of-broken-silence-2009.jpg;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1000" width="346" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="ohLFZsM4meblpCoX3Q22-27" value="&lt;div align=&quot;left&quot;&gt;https://www.sarahvansonsbeeck.com/#/sculpture/&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Once cubic meter of silence&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Saran van Sonsbeek&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2009&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1540" width="280" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

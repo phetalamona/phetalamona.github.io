@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-22T12:36:20.411Z" agent="5.0 (Macintosh)" etag="YLnixRr5efFGr_Dsmjcd" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-22T12:44:38.271Z" agent="5.0 (Macintosh)" etag="MwjMcH2udOA6cd961BxU" version="16.6.2" type="github">
   <diagram id="Fz2pEjtqNTdtGRBQMziY" name="Page-1">
-    <mxGraphModel dx="1651" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2237" dy="1723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,6 +21,18 @@
         </mxCell>
         <mxCell id="ohLFZsM4meblpCoX3Q22-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://rlfbckr.io/images/photosextended/rechnender-raum/Rechnender Raum trinitatiskirche koeln.jpg;" vertex="1" parent="1">
           <mxGeometry x="-530" y="720" width="390" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="ohLFZsM4meblpCoX3Q22-9" value="&lt;div align=&quot;left&quot;&gt;https://rlfbckr.io/work/rechnender-raum/&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Ralf Baecker&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Autonomous System&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2007&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Machine installation&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="1250" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ohLFZsM4meblpCoX3Q22-10" value="&lt;a href=&quot;https://www.scott-eaton.com/wp/wp-content/uploads/Entangled_II-Cover.jpg&quot; style=&quot;margin: 0px; padding: 0px; border: 0px none; outline: currentcolor none 0px; font-size: 14px; text-decoration: underline; color: rgb(212, 188, 146); font-family: &amp;quot;georgia&amp;quot;, serif; font-style: normal; font-weight: normal; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;&lt;img src=&quot;https://www.scott-eaton.com/wp/wp-content/uploads/Entangled_II-Cover-425x638.jpg&quot; alt=&quot;Still from Scott Eaton&#39;s AI video artwork - Entangled II&quot; class=&quot;alignleft size-thumbnail wp-image-6369&quot; style=&quot;margin: 0px 10px 5px 0px ; padding: 0px ; border: none ; outline: 0px ; font-size: 14px ; float: left ; max-width: 100%&quot; width=&quot;425&quot;&gt;&lt;/a&gt;&lt;em style=&quot;margin: 0px; padding: 0px; border: 0px none; outline: currentcolor none 0px; font-size: 14px; color: rgb(222, 222, 222); font-family: &amp;quot;georgia&amp;quot;, serif; font-weight: normal; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; text-decoration: none;&quot;&gt;&lt;/em&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="170" width="460" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ohLFZsM4meblpCoX3Q22-11" value="&lt;div align=&quot;left&quot;&gt;https://www.scott-eaton.com&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Entangled II&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Scott Eaton&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2018&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="820" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ohLFZsM4meblpCoX3Q22-12" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/en/c/c9/Mouchette.png;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="1110" width="325" height="184" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

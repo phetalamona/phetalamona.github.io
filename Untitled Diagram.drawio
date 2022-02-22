@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-22T12:45:56.299Z" agent="5.0 (Macintosh)" etag="gkjwth9cBODdsxuFjd3e" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-22T12:57:53.843Z" agent="5.0 (Macintosh)" etag="R0OozgqrOjCQP9cheZ2G" version="16.6.2" type="github">
   <diagram id="Fz2pEjtqNTdtGRBQMziY" name="Page-1">
-    <mxGraphModel dx="2237" dy="1723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2524" dy="2068" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,6 +33,21 @@
         </mxCell>
         <mxCell id="ohLFZsM4meblpCoX3Q22-12" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/en/c/c9/Mouchette.png;" vertex="1" parent="1">
           <mxGeometry x="170" y="740" width="582.88" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ohLFZsM4meblpCoX3Q22-13" value="&lt;div align=&quot;left&quot;&gt;Mouchette.org&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Martine Neddam&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1996&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Interactive website&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1080" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ohLFZsM4meblpCoX3Q22-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.arshake.com/wp-content/uploads/2016/11/click-click-cover-1024x612.png;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="1440" width="520" height="311" as="geometry" />
+        </mxCell>
+        <mxCell id="ohLFZsM4meblpCoX3Q22-17" value="&lt;div align=&quot;left&quot;&gt;http://clickclickclick.click/&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Click Click Click &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Studio Moniker&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Website&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="1770" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ohLFZsM4meblpCoX3Q22-18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.newrafael.com/img/sitethumbs/fearofchoice-200.png;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="1310" width="511.63" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ohLFZsM4meblpCoX3Q22-19" value="&lt;div align=&quot;left&quot;&gt;http://www.fearofchoice.com/&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Fear of choice&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Rafael Rozendalen&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2019&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="1660" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T08:08:22.513Z" agent="5.0 (Macintosh)" etag="LBBDLJx3tgysjdenvjyp" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-10T22:15:36.819Z" agent="5.0 (Macintosh)" etag="Rt6uQnabuVDoBlgvkTG3" version="17.1.0" type="github">
   <diagram id="Fz2pEjtqNTdtGRBQMziY" name="Page-1">
-    <mxGraphModel dx="2547" dy="1149" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2302" dy="1034" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,6 +54,12 @@
         </mxCell>
         <mxCell id="ohLFZsM4meblpCoX3Q22-27" value="&lt;div align=&quot;left&quot;&gt;https://www.sarahvansonsbeeck.com/#/sculpture/&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Once cubic meter of silence&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Saran van Sonsbeek&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2009&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="810" y="1540" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y66RXy-xfhb3bHphJqtp-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://user-images.githubusercontent.com/1403842/44860179-a0651200-acb0-11e8-90c7-cc53469c58bf.png;" vertex="1" parent="1">
+          <mxGeometry x="2290" y="1780" width="520" height="284" as="geometry" />
+        </mxCell>
+        <mxCell id="Y66RXy-xfhb3bHphJqtp-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://user-images.githubusercontent.com/1403842/44860178-a0651200-acb0-11e8-975f-07621ed67b2c.png;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="1486" width="520" height="284" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

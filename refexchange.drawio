@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-29T08:44:23.955Z" agent="5.0 (Macintosh)" etag="oBcSEoADkIL9EPZWkjre" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-29T08:46:20.022Z" agent="5.0 (Macintosh)" etag="ka6hysvWBiLVmc4-7Bwb" version="17.2.4" type="github">
   <diagram id="Fz2pEjtqNTdtGRBQMziY" name="Page-1">
-    <mxGraphModel dx="3017" dy="1477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1770" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,6 +82,14 @@
         <mxCell id="9F3Q1n5DnLFxMaBrRxdZ-9" value="&lt;div&gt;http://www.joostrekveld.net/?p=2070&lt;br&gt;&lt;/div&gt;&lt;div&gt;#57&lt;br&gt;&lt;/div&gt;&lt;div&gt;J&lt;span class=&quot;yKMVIe&quot;&gt;oost Rekveld&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1690" y="770" width="220" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="9F3Q1n5DnLFxMaBrRxdZ-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://richardvijgen.nl/images/4/1/5/6/5/415658fec9f301241cf4f4376602c13e4a1a46fd-2.jpeg;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="833" width="520" height="347" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;https://richardvijgen.nl/#architectureofradio&lt;/div&gt;&lt;div&gt;Architecture of radio&lt;/div&gt;&lt;div&gt;Richard Vijgen &lt;br&gt;&lt;/div&gt;&lt;div&gt;2016&lt;br&gt;&lt;/div&gt;" link="https://richardvijgen.nl/#architectureofradio" id="9F3Q1n5DnLFxMaBrRxdZ-11">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="1690" y="1190" width="250" height="130" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>

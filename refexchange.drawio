@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-29T08:46:20.022Z" agent="5.0 (Macintosh)" etag="ka6hysvWBiLVmc4-7Bwb" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-04T09:33:28.275Z" agent="5.0 (Macintosh)" etag="XRNwxh49uJQM4e5A0sA8" version="17.2.4" type="github">
   <diagram id="Fz2pEjtqNTdtGRBQMziY" name="Page-1">
-    <mxGraphModel dx="1770" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4220" dy="1723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,41 +55,47 @@
         <mxCell id="ohLFZsM4meblpCoX3Q22-27" value="&lt;div align=&quot;left&quot;&gt;https://www.sarahvansonsbeeck.com/#/sculpture/&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Once cubic meter of silence&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Saran van Sonsbeek&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2009&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="560" y="1410" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9F3Q1n5DnLFxMaBrRxdZ-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.technofle.sh/img/C_ROOT0082-side_SimoneNiquille-Technoflesh.jpg;" vertex="1" parent="1">
+        <mxCell id="9F3Q1n5DnLFxMaBrRxdZ-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.technofle.sh/img/C_ROOT0082-side_SimoneNiquille-Technoflesh.jpg;" parent="1" vertex="1">
           <mxGeometry x="960" y="790" width="520" height="384" as="geometry" />
         </mxCell>
-        <mxCell id="9F3Q1n5DnLFxMaBrRxdZ-2" value="&lt;div align=&quot;left&quot;&gt;https://www.technofle.sh/&lt;/div&gt;Simone C Niquille" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9F3Q1n5DnLFxMaBrRxdZ-2" value="&lt;div align=&quot;left&quot;&gt;https://www.technofle.sh/&lt;/div&gt;Simone C Niquille" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="960" y="1180" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9F3Q1n5DnLFxMaBrRxdZ-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://verbekefoundation.com/wp-content/uploads/2021/06/Luca-Vanello_air_01.jpg;" vertex="1" parent="1">
+        <mxCell id="9F3Q1n5DnLFxMaBrRxdZ-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://verbekefoundation.com/wp-content/uploads/2021/06/Luca-Vanello_air_01.jpg;" parent="1" vertex="1">
           <mxGeometry x="730" y="1490" width="520" height="347" as="geometry" />
         </mxCell>
-        <mxCell id="9F3Q1n5DnLFxMaBrRxdZ-4" value="&lt;div align=&quot;left&quot;&gt;https://verbekefoundation.com/en/tentoonstellingen/now-on-view/&lt;/div&gt;Luca Vanello" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9F3Q1n5DnLFxMaBrRxdZ-4" value="&lt;div align=&quot;left&quot;&gt;https://verbekefoundation.com/en/tentoonstellingen/now-on-view/&lt;/div&gt;Luca Vanello" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="730" y="1850" width="360" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9F3Q1n5DnLFxMaBrRxdZ-5" value="https://constantdullaart.com/☔☁☁☁☠⛔☁☁☁⏳☔⚠☁☁⛔⏳☠������✊������✊/" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9F3Q1n5DnLFxMaBrRxdZ-5" value="https://constantdullaart.com/☔☁☁☁☠⛔☁☁☁⏳☔⚠☁☁⛔⏳☠������✊������✊/" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1690" y="440" width="390" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9F3Q1n5DnLFxMaBrRxdZ-6" value="&lt;div align=&quot;left&quot;&gt;&lt;h1&gt;Lectures / conferences&lt;br&gt;&lt;/h1&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9F3Q1n5DnLFxMaBrRxdZ-6" value="&lt;div align=&quot;left&quot;&gt;&lt;h1&gt;Lectures / conferences&lt;br&gt;&lt;/h1&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1690" y="35" width="280" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9F3Q1n5DnLFxMaBrRxdZ-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://d2u3kfwd92fzu7.cloudfront.net/catalog/artwork/1461749/1413884550.3012_117_o.jpg;" vertex="1" parent="1">
+        <mxCell id="9F3Q1n5DnLFxMaBrRxdZ-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://d2u3kfwd92fzu7.cloudfront.net/catalog/artwork/1461749/1413884550.3012_117_o.jpg;" parent="1" vertex="1">
           <mxGeometry x="1690" y="100" width="520" height="329" as="geometry" />
         </mxCell>
-        <mxCell id="9F3Q1n5DnLFxMaBrRxdZ-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=http://www.joostrekveld.net/wp/wp-content/uploads/2018/02/nr57still04-494x277.jpg;" vertex="1" parent="1">
+        <mxCell id="9F3Q1n5DnLFxMaBrRxdZ-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=http://www.joostrekveld.net/wp/wp-content/uploads/2018/02/nr57still04-494x277.jpg;" parent="1" vertex="1">
           <mxGeometry x="1690" y="481.5" width="494" height="277" as="geometry" />
         </mxCell>
-        <mxCell id="9F3Q1n5DnLFxMaBrRxdZ-9" value="&lt;div&gt;http://www.joostrekveld.net/?p=2070&lt;br&gt;&lt;/div&gt;&lt;div&gt;#57&lt;br&gt;&lt;/div&gt;&lt;div&gt;J&lt;span class=&quot;yKMVIe&quot;&gt;oost Rekveld&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9F3Q1n5DnLFxMaBrRxdZ-9" value="&lt;div&gt;http://www.joostrekveld.net/?p=2070&lt;br&gt;&lt;/div&gt;&lt;div&gt;#57&lt;br&gt;&lt;/div&gt;&lt;div&gt;J&lt;span class=&quot;yKMVIe&quot;&gt;oost Rekveld&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1690" y="770" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9F3Q1n5DnLFxMaBrRxdZ-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://richardvijgen.nl/images/4/1/5/6/5/415658fec9f301241cf4f4376602c13e4a1a46fd-2.jpeg;" vertex="1" parent="1">
+        <mxCell id="9F3Q1n5DnLFxMaBrRxdZ-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://richardvijgen.nl/images/4/1/5/6/5/415658fec9f301241cf4f4376602c13e4a1a46fd-2.jpeg;" parent="1" vertex="1">
           <mxGeometry x="1690" y="833" width="520" height="347" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div&gt;https://richardvijgen.nl/#architectureofradio&lt;/div&gt;&lt;div&gt;Architecture of radio&lt;/div&gt;&lt;div&gt;Richard Vijgen &lt;br&gt;&lt;/div&gt;&lt;div&gt;2016&lt;br&gt;&lt;/div&gt;" link="https://richardvijgen.nl/#architectureofradio" id="9F3Q1n5DnLFxMaBrRxdZ-11">
-          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="1690" y="1190" width="250" height="130" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="bvpzkGALg0nAZY-j6K4W-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.kanno.so/wp-content/uploads/2021/05/LMWS3.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="1750" width="520" height="387" as="geometry" />
+        </mxCell>
+        <mxCell id="bvpzkGALg0nAZY-j6K4W-3" value="&lt;div&gt;&lt;span class=&quot;bold&quot;&gt;https://www.kanno.so/project/lasermice_workshop&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;bold&quot;&gt;Lasermice workshop&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;bold&quot;&gt;So Kanno&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="2150" width="160" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

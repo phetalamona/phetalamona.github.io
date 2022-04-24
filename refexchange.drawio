@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-04T09:33:28.275Z" agent="5.0 (Macintosh)" etag="XRNwxh49uJQM4e5A0sA8" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-24T10:57:33.167Z" agent="5.0 (Macintosh)" etag="CjJEVHP_K6tTEh3Tu1Zv" version="17.4.6" type="github">
   <diagram id="Fz2pEjtqNTdtGRBQMziY" name="Page-1">
-    <mxGraphModel dx="4220" dy="1723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2850" dy="1034" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -90,11 +90,32 @@
             <mxGeometry x="1690" y="1190" width="250" height="130" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="bvpzkGALg0nAZY-j6K4W-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.kanno.so/wp-content/uploads/2021/05/LMWS3.jpg;" vertex="1" parent="1">
+        <mxCell id="bvpzkGALg0nAZY-j6K4W-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.kanno.so/wp-content/uploads/2021/05/LMWS3.jpg;" parent="1" vertex="1">
           <mxGeometry x="-790" y="1750" width="520" height="387" as="geometry" />
         </mxCell>
-        <mxCell id="bvpzkGALg0nAZY-j6K4W-3" value="&lt;div&gt;&lt;span class=&quot;bold&quot;&gt;https://www.kanno.so/project/lasermice_workshop&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;bold&quot;&gt;Lasermice workshop&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;bold&quot;&gt;So Kanno&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bvpzkGALg0nAZY-j6K4W-3" value="&lt;div&gt;&lt;span class=&quot;bold&quot;&gt;https://www.kanno.so/project/lasermice_workshop&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;bold&quot;&gt;Lasermice workshop&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;bold&quot;&gt;So Kanno&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-790" y="2150" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GZIhcRstagoRDVptMjbm-1" value="&lt;div align=&quot;left&quot;&gt;&lt;h1&gt;Museums/ exhibitions&lt;br&gt;&lt;/h1&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2250" y="35" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GZIhcRstagoRDVptMjbm-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://nxtmuseum.com/content/uploads/2020/06/04_Habitat-768x577.jpg;" vertex="1" parent="1">
+          <mxGeometry x="2250" y="100" width="520" height="391" as="geometry" />
+        </mxCell>
+        <mxCell id="GZIhcRstagoRDVptMjbm-3" value="&lt;div&gt;Habitat&lt;/div&gt;&lt;div&gt;2020&lt;/div&gt;&lt;div&gt;Heleen Blanken&lt;/div&gt;&lt;div&gt;(seen Nxt Museum - Shifting Proximities&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2250" y="510" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GZIhcRstagoRDVptMjbm-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://payload.cargocollective.com/1/11/353467/14359514/Aurae---Voyez-Vous-Vinciane-Lebrun--2967_1000.jpg;" vertex="1" parent="1">
+          <mxGeometry x="2250" y="600" width="520" height="346" as="geometry" />
+        </mxCell>
+        <mxCell id="GZIhcRstagoRDVptMjbm-5" value="&lt;div&gt;Aurae &lt;br&gt;&lt;/div&gt;&lt;div&gt;2022&lt;/div&gt;&lt;div&gt;Sabrina Ratté - solo exhibition &lt;br&gt;&lt;/div&gt;&lt;div&gt;Gaité Lyrique, Paris&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2250" y="960" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GZIhcRstagoRDVptMjbm-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=http://roofvogel.org/wp-content/uploads/2017/06/nummervier_03.jpg;" vertex="1" parent="1">
+          <mxGeometry x="2250" y="1050" width="520" height="293" as="geometry" />
+        </mxCell>
+        <mxCell id="GZIhcRstagoRDVptMjbm-7" value="&lt;div&gt;Nummer vier&lt;/div&gt;&lt;div&gt;2005&lt;/div&gt;&lt;div&gt;Guido van der Werve&lt;/div&gt;&lt;div&gt;(seen Eye Museum)&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2250" y="1354" width="220" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
